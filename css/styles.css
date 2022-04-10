@@ -119,7 +119,7 @@ body {
 
 .header-contacts-list {
     display: flex;
-    margin-left: 331px;
+    margin-left: auto;
 }
 
 .header-contacts-item:not(:first-child) {
