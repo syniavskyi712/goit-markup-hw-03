@@ -156,7 +156,9 @@ body {
 
 .hero-title {
     width: 696px;
-    margin: 0 auto 30px auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-right: auto;
 
     font-weight: 900;
     font-size: 44px;
@@ -170,8 +172,9 @@ body {
 
 .hero-btn {
     display: block;
-    margin: 0 auto;
     padding: 10px 32px;
+    margin-right: auto;
+    margin-left: auto;
 
     font-weight: 700;
     font-size: 16px;
